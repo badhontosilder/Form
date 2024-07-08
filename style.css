@@ -1,0 +1,46 @@
+h1{
+   margin-left: 30%;;
+   
+} 
+#fname{
+  font-style: italic;
+  
+}
+#lname{
+  font-style: italic;
+}
+#Email{
+  font-style: italic;
+}
+#namber{
+  font-style: italic;
+}
+#password{
+  font-style: italic;
+
+}
+#occupation{
+  font-style: italic;
+}
+label{
+  color: rgb(26, 59, 221);
+}
+body{
+   
+}
+.form{
+  margin-left: 30%;
+ font-size: large;
+   
+}
+.submit{
+  margin-left: 30%;
+     
+}
+a{
+  text-decoration:underline;
+   margin-left:70%;
+   font-size:  large;
+   color: rgb(233, 18, 18);
+}
+ 
